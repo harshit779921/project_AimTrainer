@@ -1,10 +1,10 @@
 # Project Name : AimTrainer
 
-#### Video Demo:  <>
+#### Video Demo:  <https://youtu.be/8eYAZnm1Loo>
 
 
 #### Description:
-This project focuses to improve your Aim in shooting game why using pygame library this shooting training is built. This is a simple aim trainer game where you are able to shoot multiple target and you can improve your aim in shooting game like CSGO, Valorant,ect. This is a fun way to improve your aim in the game.
+This project focuses to improve your Aim in shooting game why using pygame library this is a shooting training game. This is a simple aim trainer game where you are able to shoot multiple target and you can improve your aim in shooting game like CSGO, Valorant,etc. This is a fun way to improve your aim in the game.
 
 ## TODO
 
