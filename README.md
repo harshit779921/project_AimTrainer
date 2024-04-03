@@ -19,6 +19,6 @@ All you have to do just run the code and a window  will appear, where the Aim Tr
 
 Documentation : [ pygame: https://www.pygame.org/docs/ ]
 
-Github Repo : [ AimTrainer: ]
+Github Repo : [ AimTrainer: https://github.com/harshit779921/project_AimTrainer/tree/main/project_AimTrainer ]
 
 
